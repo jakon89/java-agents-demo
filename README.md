@@ -1,13 +1,13 @@
 ### Java Agents demo
 
 
-Please read blogpost [here](https://devolution.tech/introduction-to-java-agents/(opens in a new tab)) and come back again.
+Please read blogpost [here](https://devolution.tech/introduction-to-java-agents/) and come back again.
 
 
 #### Building
 
 ```bash
-git@github.com:jakon89/java-agents-demo.git
+git clone git@github.com:jakon89/java-agents-demo.git
 ```
 
 ```bash

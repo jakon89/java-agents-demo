@@ -16,10 +16,10 @@ public class Main {
         }
     }
 
-    @Trace
     private static void callNonSupervisedMethod() {
     }
 
+    @Trace
     private static void callSupervisedMethod() {
     }
 }
