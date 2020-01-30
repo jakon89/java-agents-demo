@@ -1,7 +1,7 @@
 ### Java Agents demo
 
 
-Please read blogpost [https://devolution.tech/introduction-to-java-agents/(opens in a new tab)](here) and come back again.
+Please read blogpost [here](https://devolution.tech/introduction-to-java-agents/(opens in a new tab)) and come back again.
 
 
 #### Building
