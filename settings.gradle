@@ -1,0 +1,5 @@
+rootProject.name = 'java-agent-demo'
+include 'business-app'
+include 'tracer'
+include 'tracer-api'
+

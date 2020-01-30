@@ -1,0 +1,26 @@
+allprojects {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+    }
+}
+
+subprojects {
+    group = "tech.devolution.${rootProject.name}"
+
+    apply plugin: 'java'
+
+    sourceCompatibility = 8
+    targetCompatibility = 8
+
+    dependencies {
+    }
+
+    buildscript {
+        repositories {
+            mavenCentral()
+            jcenter()
+        }
+    }
+}
